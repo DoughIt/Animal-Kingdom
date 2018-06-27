@@ -1,4 +1,2 @@
-"# project1" 
-"# project1" 
-"# project1" 
-"# project1" 
+# 斗兽棋 `命令行版本`
+## 程序设计A Project
